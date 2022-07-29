@@ -8,6 +8,8 @@ This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 ![App Screenshot](assets/Screenshot.png)
 >note: Responsive design under construction 🛠️
 
+[Live Demo](https://parveshahamed00.github.io/iNeuron-css-project1-StreeetStyleLandingPage/)
+
 ## Lessons Learned
 
 By building this assignment I've learned css flexbox, positions and z-index. I took more than an hour for me to bulid it
