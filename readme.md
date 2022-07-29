@@ -8,7 +8,7 @@ This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 ![App Screenshot](assets/Screenshot.png)
 >note: Responsive design under construction 🛠️
 
-[Live Demo](https://parveshahamed00.github.io/iNeuron-css-project1-StreeetStyleLandingPage/)
+[Live Demo](https://parveshahamed-street-style-landing-page.netlify.app/)
 
 ## Lessons Learned
 
